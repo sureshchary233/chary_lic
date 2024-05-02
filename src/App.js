@@ -7,7 +7,7 @@ function App() {
       {" "}
       <div className="pos">
         <header>
-          <h1>సత్యనారాయణ చరీ(LIC CHARY)</h1>
+          <h1> SATYANARAYANA CHARY (LIC CHARY)</h1>
           <h3>ZM CLUB MUMBER MDRT(USA)CHIEF LIFE INSURANCE ADVAISOR</h3>
           <p>
             <div className="social">
